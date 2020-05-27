@@ -1,0 +1,29 @@
+commit d6d3400371d8e5bf58567cfd875a3f9a8f3c05de (HEAD -> master)
+Author: Daniel C Istrate <daniel.istr8@gmail.com>
+Date:   Wed May 27 12:58:47 2020 +0300
+
+    Rename file lorem
+
+commit ec6fb5e0e6895e9b0b273c6020003464da6caa96
+Author: Daniel C Istrate <daniel.istr8@gmail.com>
+Date:   Wed May 27 12:50:35 2020 +0300
+
+    Add 3 lines of Lorem Ipsum
+
+commit a36318ac282e3de610c1055b93fa627911846a54
+Author: Daniel C Istrate <daniel.istr8@gmail.com>
+Date:   Wed May 27 12:40:22 2020 +0300
+
+    Add file lorem.txt
+
+commit ef0f8aa2ad350f14196d1cd4309a6f41ee3aedf1
+Author: Author: Daniel C Istrate <daniel.istr8@gmail.com>
+Date:   Wed May 27 12:02:38 2020 +0300
+
+    Exclude temporary files
+
+commit 6dd138eb84f4e6e711f0629bfd7ad7666bb63e3f
+Author: Author: Daniel C Istrate <daniel.istr8@gmail.com>
+Date:   Mon May 25 10:02:38 2020 +0300
+
+    Initial commit
